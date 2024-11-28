@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 💻 Computer and AI Engineer
+
 🔧 Passionate about coding, problem-solving, and technology innovation
+
 ✨ Diving into AI research with a focus on Multimodal Large Language Models and Retrieval-Augmented Generation (RAG)
